@@ -1,0 +1,37 @@
+﻿<Object>
+  <Processor>
+    <Pages>
+      <Page>
+        <Name>Settings</Name>
+        <Row>
+          <Setting>
+            <Name>Enable</Name>
+            <Value>True</Value>
+          </Setting>
+          <Setting>
+            <Name>Name</Name>
+            <Value>value</Value>
+          </Setting>
+          <Setting>
+            <Name>Description</Name>
+            <Value>value</Value>
+          </Setting>
+        </Row>
+        <Row>
+          <Setting>
+            <Name>Enable</Name>
+            <Value>True</Value>
+          </Setting>
+          <Setting>
+            <Name>Name</Name>
+            <Value>value</Value>
+          </Setting>
+          <Setting>
+            <Name>Description</Name>
+            <Value>value</Value>
+          </Setting>
+        </Row>
+      </Page>
+    </Pages>
+  </Processor>
+</Object>
